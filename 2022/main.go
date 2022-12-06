@@ -15,4 +15,6 @@ func main() {
 	puzzles.RunPuzzle4()
 	fmt.Println()
 	puzzles.RunPuzzle5()
+	fmt.Println()
+	puzzles.RunPuzzle6()
 }
